@@ -91,19 +91,6 @@ Solved Sudoku:
 
 ---
 
-## ▶️ How to Compile and Run
-
-### Step 1: Compile
-```bash
-g++ Sudoku_Solver.cpp -o sudoku
-
----
-
-### Step 1: Run
-./sudoku
-
----
-
 ## 🧠 Algorithm Used
 
 Backtracking
@@ -128,7 +115,20 @@ Grid-based problem solving
 
 Constraint checking logic
 
+
+## ▶️ How to Compile and Run
+
+### Step 1: Compile
+```bash
+g++ Sudoku_Solver.cpp -o sudoku
+
 ---
+
+### Step 1: Run
+./sudoku
+
+---
+
 
 ## 👨‍💻 Author
 
