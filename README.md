@@ -84,7 +84,7 @@ g++ Sudoku_Solver.cpp -o sudoku
 ### Step 2: Run
 ./sudoku
 
-🧠 Algorithm Used
+## 🧠 Algorithm Used
 
 Backtracking
 
@@ -96,7 +96,7 @@ Recursively continue
 
 Backtrack if no valid number fits
 
-🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 Understanding recursion
 
@@ -106,7 +106,7 @@ Grid-based problem solving
 
 Constraint checking logic
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Ujjwal Pandit
 
